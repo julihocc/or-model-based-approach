@@ -1,0 +1,10 @@
+digraph example_2 {
+	0 -> 1 [label=5]
+	0 -> 2 [label=8]
+	1 -> 2 [label=2]
+	1 -> 3 [label=2]
+	1 -> 4 [label=4]
+	2 -> 3 [label=3]
+	2 -> 4 [label=3]
+	3 -> 4 [label=5]
+}
